@@ -18,4 +18,4 @@ To run a script, right click on file name in the file explorer and click 'Run'. 
 Output from script will appear in remix terminal.
 
 Contract's address:
-https://rinkeby.etherscan.io/tx/0xe5658d9750710a3c6c652fe605c58c689b50077ed28981b979a6d2e0820ba39d
+https://rinkeby.etherscan.io/address/0x8737fe44c1fdc086578de0bea59d63a2068ee44e
