@@ -43,6 +43,19 @@
 				"type": "function"
 			},
 			{
+				"inputs": [],
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
 				"inputs": [
 					{
 						"internalType": "string",
@@ -84,11 +97,11 @@
 	},
 	"sources": {
 		"contracts/3_Hello_World.sol": {
-			"keccak256": "0x4ffe1e4adb3e3dd4901efcce4d6ef3f5a6e8431fc8f95bccaaada7b03a37cb3d",
+			"keccak256": "0xe61c3489b506133808251525f6d3f5f1d7436446cadc6027fef45269792b653d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://7bb2091125740e5fa727d168addad6121c8207842d0ab19a7c85bd4655b617d2",
-				"dweb:/ipfs/QmSfGEtsjvBNgYRsRA7kQh2f6mna5YtusXeEeVs96M3wEe"
+				"bzz-raw://79e6f84bd38254501f0003f02e1182ca151e1815946cf203eb55f3dac3fb42ab",
+				"dweb:/ipfs/Qma7tGYq24JSgXRxDsD46D1iDEena9sNYS1Xz6TCiYHnem"
 			]
 		}
 	},

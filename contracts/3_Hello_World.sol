@@ -5,6 +5,7 @@ contract HelloWorld {
    
    //declaring state variable 
     string public  greeting; 
+    string public  name; 
 
     //constructor
     constructor  (string memory _greeting) {
