@@ -18,4 +18,4 @@ To run a script, right click on file name in the file explorer and click 'Run'. 
 Output from script will appear in remix terminal.
 
 Contract's address:
-0x8438dD2b91AEA4C6f33B04ed478821EC06b2EE2B
+0x5b6a883423dd353dB2655DAFfc681e43e6217067
